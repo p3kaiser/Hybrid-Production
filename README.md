@@ -1,5 +1,5 @@
 # Hybrid-Production
-This is the code, used in the CIRP CMS 2022 publication "Hybrid Production: Enabled By Controlling The Output Sequence Of A Matrix Production Using Answer Set Programming"
+This code is used in the CIRP CMS 2022 publication "Hybrid Production: Enabled By Controlling The Output Sequence Of A Matrix Production Using Answer Set Programming".
 In order to reproduce the results the files have to be executed in the correct way.
 For the first application with the input data of the FLW research lab, the input files beginning with "input_CPPS" are used. For the second application with the input data from Thomopoulos, the input files beginning with "input_thomopoulos" are used.
 To execute the code, clingo (https://potassco.org/clingo/) has to be installed. Then the following commands can be executed in the terminal:
